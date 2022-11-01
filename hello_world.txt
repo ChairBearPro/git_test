@@ -1,2 +1,3 @@
 another test
 test code --wait
+test vim as editor again
